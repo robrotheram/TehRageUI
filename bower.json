@@ -1,0 +1,23 @@
+{
+  "name": "TehRageUI",
+  "version": "0.0.0",
+  "authors": [
+    "robert <robrotheram@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar": "~2.3.1",
+    "gmaps": "~0.4.17",
+    "bootstrap": "~3.3.4"
+  }
+}

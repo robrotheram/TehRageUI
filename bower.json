@@ -16,7 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "fullcalendar": "~2.3.1",
     "bootstrap": "~3.3.4",
     "simplegmaps": "~0.6.0"
   }

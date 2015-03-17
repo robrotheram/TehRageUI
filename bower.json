@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "fullcalendar": "~2.3.1",
-    "gmaps": "~0.4.17",
-    "bootstrap": "~3.3.4"
+    "bootstrap": "~3.3.4",
+    "simplegmaps": "~0.6.0"
   }
 }
